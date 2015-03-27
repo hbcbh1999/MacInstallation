@@ -19,13 +19,15 @@ Make sure your system meets these requirements:
   brew tap homebrew/science
   ```
 
-### Step 3: Installing gcc and its dependencies
+### Step 3: Install gcc and its libraries
 
   ```
   brew install gcc
+  brew install open-mpi
+  brew install boost
   ```
 
-### Step 4: Installing python and its modules
+### Step 4: Install Python and its modules
     
   ```
   brew install python
@@ -43,4 +45,11 @@ Make sure your system meets these requirements:
   pip install scikits.statsmodels
   pip install scikit-learn
   pip install QSTK
+  ```
+
+### Step 5: Install R and its dependencies
+
+  ```
+  brew install Caskroom/cask/xquartz
+  brew install R
   ```
