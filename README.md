@@ -15,3 +15,21 @@ Make sure your system meets these requirements:
   - Open the terminal application by using Command + Space and then typing terminal.
       
     ```ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"```
+
+### Step 3: Installing Python
+    
+  ```
+  brew install python
+  brew tap samueljohn/python
+  brew tap homebrew/science
+  ```
+  
+### Step 4: Installing Virtual Environment
+
+  ```
+  pip install virtualenv
+  pip install nose
+  pip install pyparsing
+  pip install python-dateutil
+  ```
+  
