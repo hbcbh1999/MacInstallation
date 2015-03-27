@@ -81,10 +81,13 @@ Make sure your system meets these requirements:
 
   1. Download and install the latest version of Git.
   2. Tell Git your name so your commits will be properly labeled. Type everything after the $ here:
+  
      ``` 
      git config --global user.name "YOUR NAME" 
      ```
+     
   3. Tell Git the email address that will be associated with your Git commits.
+  
      ```
      git config --global user.email "YOUR EMAIL ADDRESS"
      ```
