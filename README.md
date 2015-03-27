@@ -70,3 +70,12 @@ Make sure your system meets these requirements:
   ```
   brew cask install Caskroom/cask/sublime-text
   ```
+
+### Step 8: Install Microsoft Office
+
+  1. First download this file: com.microsoft.office.licensing.plist
+  Do NOT copy the numbers and letters in this file. You will not need this information.
+  2. Put this file into /Library/Preferences/
+  DO NOT put it in your home Preferences folder (NOT /Users/YourHome/Library/Preferences)
+  3. Quit and relaunch (reopen) all Office programs.
+  You can now use your MS Office 2011 without any serial number.
