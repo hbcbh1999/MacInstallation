@@ -14,4 +14,4 @@ Make sure your system meets these requirements:
 ### Step 2: Install Homebrew
   - Open the terminal application by using Command + Space and then typing terminal.
       
-```ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"```
+    ```ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"```
