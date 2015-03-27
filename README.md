@@ -53,3 +53,20 @@ Make sure your system meets these requirements:
   brew install Caskroom/cask/xquartz
   brew install R
   ```
+
+### Step 6: Install IPython notebook
+
+  ```
+  pip install ipython
+  pip install pyzmq
+  pip install jinja2
+  pip install tornado
+  pip install jsonschema
+  pip install rpy2
+  ```
+  
+### Step 7: Install Sublime IDE
+
+  ```
+  brew cask install Caskroom/cask/sublime-text
+  ```
