@@ -65,10 +65,11 @@ Make sure your system meets these requirements:
   pip install rpy2
   ```
   
-### Step 7: Install Sublime IDE
+### Step 7: Install Sublime IDE and fix Mac Path
 
   ```
   brew cask install Caskroom/cask/sublime-text
+  git clone https://github.com/int3h/SublimeFixMacPath.git ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/FixMacPath
   ```
 
 ### Step 8: Install Microsoft Office (free key)
