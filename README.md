@@ -81,7 +81,7 @@ Make sure your system meets these requirements:
 ### Step 9: Install Github
 
   1. Download and install the latest version of Git.
-  2. Tell Git your name so your commits will be properly labeled. Type everything after the $ here:
+  2. Tell Git your name so your commits will be properly labeled.
   
      ``` 
      git config --global user.name "YOUR NAME" 
