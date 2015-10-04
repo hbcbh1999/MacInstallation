@@ -72,13 +72,7 @@ Make sure your system meets these requirements:
   git clone https://github.com/weiyialanchen/MacInstallation.git ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/FixMacPath
   ```
 
-### Step 8: Install Microsoft Office (free key)
-
-  1. First download this file: com.microsoft.office.licensing.plist
-  2. Put this file into /Library/Preferences/
-  3. Quit and relaunch (reopen) all Office programs.
-
-### Step 9: Install Github
+### Step 8: Install Github
 
   1. Download and install the latest version of Git.
   2. Tell Git your name so your commits will be properly labeled.
